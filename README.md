@@ -1,3 +1,8 @@
+# 更好的汉化项目
+我做这个汉化包只是因为前人没有及时更新所以我才另起炉灶的，现在有技术更好的人来做了那我可以躺平了。如果哪天我还在玩这游戏，但是其他人没更新中文了，那我还会再来……吗？
+
+请使用该汉化包代替：[Lethal Company Simplified Chinese Localization](https://thunderstore.io/c/lethal-company/p/SweetFox/Lethal_Company_Simplified_Chinese_Localization/) *by [SweetFox](https://thunderstore.io/c/lethal-company/p/SweetFox/)*
+
 # 原项目以及原作者
 本项目基于以下项目拆分修改而来，特此感谢!
 - [Lethal Company CN Localization Simplified Chinese](https://thunderstore.io/c/lethal-company/p/EggFriedRice/Lethal_Company_CN_Localization_Simplified_Chinese/) <br> **EggFriedRice**
